@@ -1,0 +1,32 @@
+{
+    "name": "kariha/whatsapp-api-php",
+    "description": "kariha.net tarafından sağlanan PHP'de whatsapp mesajlarını göndermek için WhatsApp API kitaplığı",
+    "keywords": [
+        "whatsapp-api",
+        "whatsapp-bot",
+        "whatsapp-chat",
+        "whatsapp-api-php"
+    ],
+    "homepage": "https://whatsapp.kariha.net",
+    "type": "library",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kariha/whatsapp-api-php"
+        }
+    ],
+    "version": "0.1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Güven Göç",
+            "email": "info@kariha.net"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "karihawp.class.php"
+        ]
+    },
+    "require": {}
+}
