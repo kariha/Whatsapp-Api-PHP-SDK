@@ -1,14 +1,10 @@
-# Whatsapp-Api-PHP-SDK
-kariha.net tarafından sağlanan PHP'de whatsapp mesajlarını göndermek için WhatsApp API kitaplığı
+# Whatsapp API PHP SDK
+[kariha.net](https://www.kariha.net) tarafından sağlanan PHP'de whatsapp mesajlarını göndermek için WhatsApp API kitaplığı
 
 
-# [Ultramsg.com](https://ultramsg.com/?utm_source=github&utm_medium=php&utm_campaign=api) WhatsApp API PHP SDK
+# Kurulum
 
- Lightweight PHP library for WhatsApp API to send the whatsappp messages in PHP provided by [Ultramsg.com](https://ultramsg.com/?utm_source=github&utm_medium=php&utm_campaign=api)
-
-# Installation
-
-Just download ultramsg.class.php or use Composer: 
+Sadece karihawp.class.php dosyasını indirin veya Composer kullanın:
 
 ```
 composer require ultramsg/whatsapp-php-sdk
